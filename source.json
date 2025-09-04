@@ -15,7 +15,8 @@
         "sakuraimikoto33/AnimatorParameterKeyframe",
         "sakuraimikoto33/BetterEditorCamera",
         "sakuraimikoto33/CopyPathMenuItem",
-		"sakuraimikoto33/MaterialVariantCreator"
+		"sakuraimikoto33/MaterialVariantCreator",
+		"sakuraimikoto33/SimpleToggleGenerator"
     ],
     "packages":[]
 }

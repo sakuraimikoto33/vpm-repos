@@ -12,7 +12,6 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "sakuraimikoto33/AnimatorParameterKeyframe",
 		"sakuraimikoto33/AnimatorParameterTypeChanger",
         "sakuraimikoto33/BetterEditorCamera",
         "sakuraimikoto33/CopyPathMenuItem",

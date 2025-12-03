@@ -1,10 +1,8 @@
 # Unity Editor Utility Scripts (VCC Repository)
 
-このリポジトリは **VRChat Creator Companion (VCC) 用リポジトリ** です。
+ツールの使用方法は各リポジトリを確認してください。
 
 ---
-
-### [AnimatorParameterKeyframe](https://github.com/sakuraimikoto33/AnimatorParameterKeyframe)
 
 ### [AnimatorParameterTypeChanger](https://github.com/sakuraimikoto33/AnimatorParameterTypeChanger)
 
@@ -13,5 +11,7 @@
 ### [CopyPathMenuItem](https://github.com/sakuraimikoto33/CopyPathMenuItem)
 
 ### [MaterialVariantCreator](https://github.com/sakuraimikoto33/MaterialVariantCreator)
+
+### [ParamCompressor](https://github.com/sakuraimikoto33/ParamCompressor)
 
 ### [SimpleToggleGenerator](https://github.com/sakuraimikoto33/SimpleToggleGenerator)

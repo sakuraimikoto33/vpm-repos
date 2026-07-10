@@ -14,4 +14,6 @@
 
 ### [ParamCompressor](https://github.com/sakuraimikoto33/ParamCompressor)
 
+### [ParamSmoother](https://github.com/sakuraimikoto33/ParamSmoother)
+
 ### [SimpleToggleGenerator](https://github.com/sakuraimikoto33/SimpleToggleGenerator)
